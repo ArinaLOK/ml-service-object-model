@@ -1,7 +1,5 @@
 Пользователь (User)
 Аккаунт
-Транзакция (Transaction)
-ML модель (MLModel)
 Конкретная ML модель (HogweedDetectionModel)
 ML задача (MLTask)
 Входные данные (ImageData)
