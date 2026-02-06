@@ -1,6 +1,7 @@
 Пользователь (User)
-Аккаунт
-Конкретная ML модель (HogweedDetectionModel)
+Аккаунт / баланс (Account)
+Транзакция (Transaction)
+ML модель (HogweedDetectionModel)
 ML задача (MLTask)
 Входные данные (ImageData)
 Результат предсказания (PredictionResult)
