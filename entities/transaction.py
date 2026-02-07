@@ -32,6 +32,8 @@ class Transaction:
     def created_at(self) -> datetime:
         return self._created_at
     
-
     class InsufficientFundsError(Exception):
         pass
+        
+    def getAmount(self) -> Decimal:
+        return self._amount
